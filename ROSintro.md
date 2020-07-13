@@ -16,6 +16,25 @@ In dieser und der nächsten Folge wollen wir Ihnen einen Überblick zum Robot Op
 
 Eine interaktive Version des Kurses finden Sie unter [Link](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/AdvancedProgramming/master/Cplusplus.md#1)
 
+**Informationen zur Prüfung**
+
+Als Termine für die mündlichen Prüfungen bieten wir folgende Zeitslots an:
+
+| Tag | Datum | Uhrzeit |
+|:----|:------|:--------|
+| Montag | 27.07.2020 | 10 Uhr | 
+| Freitag | 31.07.2020 | 10 Uhr |
+|  |   | 13 Uhr |
+| Montag | 3.08.2020 | 10 Uhr |
+|  |   | 11 Uhr |
+|  |   | 13 Uhr |
+| Freitag |  7.08.2020 | 10 Uhr |
+| Freitag |  7.08.2020 | 11 Uhr |
+
+Sprechen Sie uns rechtzeitig an, wenn Sie einen späteren Zeitpunkt vorziehen würden.
+
+Die Prüfung besteht aus einer kurzen Programmieraufgabe, die in einer 30minütigen Vorbereitungszeit zu bearbeiten ist. Die Lösung ist Ausgangspunkt einer Diskussion über die konzeptionellen Hintergründe. Darauf folgen weitere Fragestellungen zu den Inhalten der Vorlesung.
+
 **Zielstellung der heutigen Veranstaltung**
 
 + Spezifische Anforderungen an Frameworks für die Arbeit mit Robotern
